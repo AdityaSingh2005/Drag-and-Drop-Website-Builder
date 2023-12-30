@@ -5,8 +5,11 @@
 The <b>Drag and Drop Website Builder</b> is a React.js application that allows users to create static websites using a drag-and-drop interface. Users can <b>add text and images to a specific section</b> of the website and <b>save the project.</b>
 
 ## Screenshots
+<div style="display:'flex'>
+   <img src="https://github.com/AdityaSingh2005/Drag-and-Drop-Website-Builder/assets/103613774/c2628d28-e120-4e7d-9e01-02b9e1e14191" alt="img1" height="100px" />
+   <img src="https://github.com/AdityaSingh2005/Drag-and-Drop-Website-Builder/assets/103613774/76be034a-9d6d-4192-834b-cc1918530168" alt="img2" height="100px" />
+</div>
 
-![Screenshot 2023-12-30 180223](https://github.com/AdityaSingh2005/Drag-and-Drop-Website-Builder/assets/103613774/c2628d28-e120-4e7d-9e01-02b9e1e14191)
 <br/>
 <p>Drag the elements from toolbar to the website section and then you can add TEXT and UPLOAD IMAGES.</p>
 
