@@ -18,3 +18,20 @@ The Drag and Drop Website Builder is a React.js application that allows users to
 
    ```bash
    git clone https://github.com/your-username/drag-and-drop-website-builder.git
+
+2. Navigate to the project directory using the terminal:
+
+   ```bash
+   cd drag-and-drop-website-builder
+
+3. Install project dependencies using the following command:
+
+   ```bash
+    npm install
+
+4. Start the application:
+
+    ```bash
+    npm start
+
+    Open your browser and visit http://localhost:3000 to view the application.
