@@ -7,10 +7,12 @@ The Drag and Drop Website Builder is a React.js application that allows users to
 ## Screenshots
 
 ![Screenshot 2023-12-30 180223](https://github.com/AdityaSingh2005/Drag-and-Drop-Website-Builder/assets/103613774/c2628d28-e120-4e7d-9e01-02b9e1e14191)
-Drag the elements from toolbar to the website section and then you can add TEXT and UPLOAD IMAGES.
+<br/>
+<p>Drag the elements from toolbar to the website section and then you can add TEXT and UPLOAD IMAGES.</p>
 
 ![Screenshot 2023-12-30 180208](https://github.com/AdityaSingh2005/Drag-and-Drop-Website-Builder/assets/103613774/346c00ca-d242-4a69-a2d3-9486de4302b7)
-On Clicking Save Button, an alert pops up "The project is saved!".
+<br/>
+<p>On Clicking Save Button, an alert pops up "The project is saved!".</p>
 
 ## Installation
 
@@ -28,6 +30,7 @@ On Clicking Save Button, an alert pops up "The project is saved!".
 
    ```bash
     npm install
+    npm react-dnd react-dnd-html5-backend
 
 4. Start the application:
 
@@ -35,3 +38,8 @@ On Clicking Save Button, an alert pops up "The project is saved!".
     npm start
 
     Open your browser and visit http://localhost:3000 to view the application.
+
+## Tech Stack Used 
+
+1. React.js
+2. Cascading Style Sheet (CSS)
